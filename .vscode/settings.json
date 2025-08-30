@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "LICENSE": "plaintext",
+        "*.js": "javascript"
+    },
+    "css.validate": false
+}
